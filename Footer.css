@@ -1,0 +1,12 @@
+.footer_div{
+    background-color: black;
+    color: azure;
+    width: 100%;
+    padding-top: 0.1cm;
+    padding-bottom: 0.1cm;
+    position: fixed ;
+    bottom: 40;
+    }
+    .td{
+        padding: 15px;
+    }

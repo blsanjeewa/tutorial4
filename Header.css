@@ -1,0 +1,16 @@
+.header_div{
+background-color: black;
+color: azure;
+background-size: auto;
+padding-top: 0.1cm;
+padding-bottom: 0.1cm;
+}
+
+.link{
+    font-size: medium;   
+}
+
+.td{
+    padding: 11px;
+}
+
